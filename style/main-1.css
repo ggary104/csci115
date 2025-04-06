@@ -1,0 +1,82 @@
+/* Gary Gilbert - Student #: 568 377 675 */ 
+body {
+    margin: 0% 0%;
+    padding: 0% 0%;
+    color: rgb(80, 80, 80);
+    background: url("../img/paintBG.jpg"), #E9E8E6;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+header {
+    height: 80px;
+    font-size: 150%;
+    font-family: "Brush Script MT";
+    padding: 0px;
+    background-color: #ff007b;
+}
+h1 {
+    margin: 0px 0px;
+    padding: 20px;
+}
+header ul {
+    color: white;
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px 40px;
+}
+header ul li {
+    float: right;
+    padding-top: 20px;
+    padding: 20px;
+}
+header h1 {
+    color: white;
+}
+li {
+    padding: 5px;
+}
+a {
+    color:  white;
+}
+a:hover {
+    color: #ffd500;
+}
+a:link {
+    text-decoration: none;
+}
+.sidebar {
+    color: white;
+    background-color: #ff007b;
+    float: right;
+    position: sticky;
+    top: 15px;
+    width: 20%;
+    margin: 2% 5px;
+    border-radius: 25px;
+}
+.navtitle {
+    text-align: center;
+    background-color: #840040;
+    height: 60px;
+    padding-top: 1px;
+    border-radius: 7px;
+}
+.block1 {
+    padding: 5px 35px;
+    margin-left: 2%;
+    width: 55%;
+}
+.block2 {
+    padding: 5px 35px;
+    margin-left: 2%;
+    width: 55%;
+    color: #E9E8E6;
+    background-color: #ff007b;
+    border-radius: 10px;
+}
+footer {
+    bottom: o;
+    margin-top: 5%;
+    height: 80px;
+    background-color: #ff007b;
+}
